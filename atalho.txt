@@ -1,0 +1,15 @@
+abrir a pasta na qual vai trabalhar
+
+dar:
+
+git init
+
+git add e nome do arquivo ou 
+
+git add -A - todos os arquivos
+
+git commit -m "sempre comentar"
+
+$ git remote add origin https://github.com/CristianeLuiz/freecodecamp.git
+
+$ git push origin master
